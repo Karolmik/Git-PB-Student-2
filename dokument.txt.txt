@@ -1,15 +1,6 @@
-12345675677
-wcarfvdavcv
-afvdafv
-dafvadf
-nlscnlkscsssss
-avs
 
-sdcvsadv
-sdcvsadvsdv
-
-sdcvsadv
-dvs
-fvdf
-dfvdsvsd
-
+ let n = 7;
+ while( n > 0 ){
+    summary *= n--;
+}
+console.log(summary);
